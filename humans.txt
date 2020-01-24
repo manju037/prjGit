@@ -1,5 +1,10 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+   
+  3rd commit.Modifing to learn git commands
+
+
+
 
 # TEAM
 
