@@ -1,1 +1,2 @@
 creating a file in master branch and using it to learn branching
+adding lines in second branch for learning rebasing example
