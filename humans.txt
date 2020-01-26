@@ -3,6 +3,7 @@
    
   3rd commit.Modifing to learn git commands
   modifications in beta branch.it is sub branch of myFirstBranch
+  addition for rebasing example
 
 
 
